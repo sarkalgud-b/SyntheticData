@@ -1,0 +1,40 @@
+PLAN_ID,PLAN_NAME,PLAN_TYPE,PLAN_SUB_TYPE,STATE,ENROLLMENT,MCO_NAME,BENEFIT_ADMIN_NAME,PAYMENT_TYPE,PAYER_ENTITY_ID
+6539826,Humana Medicare Part D - Plan A,PDP,HMO,FL,244062,Humana,Humana Pharmacy Solutions,MED,PE1000
+4754479,Humana Medicare Part D - Plan B,PDP,PPO,PA,88492,Humana,Humana Pharmacy Solutions,MED,PE1000
+2557127,Humana Medicare Part D - Plan C,PDP,POS,GA,852728,Humana,Humana Pharmacy Solutions,MED,PE1000
+5831649,Humana Commercial - Plan A,PPO,HMO,TX,857138,Humana,Humana Pharmacy Solutions,COM,PE1001
+5824530,Humana Commercial - Plan B,PPO,PPO,FL,172504,Humana,Humana Pharmacy Solutions,COM,PE1001
+9641260,Cigna Commercial - Plan A,PPO,HMO,OH,848784,Cigna,Express Scripts,COM,PE1002
+4689000,Cigna Commercial - Plan B,PPO,PPO,TX,415327,Cigna,Express Scripts,COM,PE1002
+5057474,Cigna Commercial - Plan C,PPO,POS,PA,792229,Cigna,Express Scripts,COM,PE1002
+5251946,Cigna Medicare Part D - Plan A,PDP,HMO,FL,202885,Cigna,Express Scripts,MED,PE1003
+2590265,Cigna Medicare Part D - Plan B,PDP,PPO,TX,341066,Cigna,Express Scripts,MED,PE1003
+9565394,UnitedHealthcare Commercial - Plan A,PPO,HMO,MA,886161,UnitedHealthcare,OptumRx,COM,PE1004
+5484052,UnitedHealthcare Commercial - Plan B,PPO,PPO,CA,22356,UnitedHealthcare,OptumRx,COM,PE1004
+2551502,UnitedHealthcare Commercial - Plan C,PPO,POS,IL,835621,UnitedHealthcare,OptumRx,COM,PE1004
+6183614,AARP Medicare Rx (UHC) - Plan A,PDP,HMO,FL,708295,UnitedHealthcare,OptumRx,MED,PE1005
+9808766,AARP Medicare Rx (UHC) - Plan B,PDP,PPO,NC,515628,UnitedHealthcare,OptumRx,MED,PE1005
+9256050,AARP Medicare Rx (UHC) - Plan C,PDP,POS,OH,421269,UnitedHealthcare,OptumRx,MED,PE1005
+5422924,UnitedHealthcare Community Plan - Plan A,MCO,HMO,GA,118208,UnitedHealthcare,OptumRx,MMC,PE1006
+5119462,UnitedHealthcare Community Plan - Plan B,MCO,PPO,GA,65125,UnitedHealthcare,OptumRx,MMC,PE1006
+4318817,Aetna Commercial - Plan A,PPO,HMO,NY,779885,CVS/Aetna,CVS Caremark,COM,PE1007
+2673857,Aetna Commercial - Plan B,PPO,PPO,WA,443673,CVS/Aetna,CVS Caremark,COM,PE1007
+3715230,Aetna Commercial - Plan C,PPO,POS,AZ,21803,CVS/Aetna,CVS Caremark,COM,PE1007
+7817908,Aetna Medicare Part D (SilverScript) - Plan A,PDP,HMO,NY,484870,CVS/Aetna,CVS Caremark,MED,PE1008
+1849003,Aetna Medicare Part D (SilverScript) - Plan B,PDP,PPO,NY,110289,CVS/Aetna,CVS Caremark,MED,PE1008
+1989697,Aetna Better Health - Plan A,MCO,HMO,GA,151507,CVS/Aetna,CVS Caremark,MMC,PE1009
+3042292,Aetna Better Health - Plan B,MCO,PPO,IL,35138,CVS/Aetna,CVS Caremark,MMC,PE1009
+7868275,Anthem Commercial - Plan A,PPO,HMO,GA,364493,Elevance Health,CarelonRx,COM,PE1010
+6216832,Anthem Commercial - Plan B,PPO,PPO,CA,458016,Elevance Health,CarelonRx,COM,PE1010
+6376642,Anthem Commercial - Plan C,PPO,POS,IL,188148,Elevance Health,CarelonRx,COM,PE1010
+1179554,Anthem Health Exchange - Plan A,EXCH,HMO,MA,77099,Elevance Health,CarelonRx,EXC,PE1011
+7745611,Anthem Health Exchange - Plan B,EXCH,PPO,FL,468684,Elevance Health,CarelonRx,EXC,PE1011
+2081806,BCBS Commercial (Prime) - Plan A,PPO,HMO,AZ,576132,Blue Cross Blue Shield Plans,Prime Therapeutics,COM,PE1012
+5454685,BCBS Commercial (Prime) - Plan B,PPO,PPO,WA,831092,Blue Cross Blue Shield Plans,Prime Therapeutics,COM,PE1012
+8734559,BCBS Commercial (Prime) - Plan C,PPO,POS,TX,684717,Blue Cross Blue Shield Plans,Prime Therapeutics,COM,PE1012
+2014559,BCBS Health Exchange (Prime) - Plan A,EXCH,HMO,GA,180467,Blue Cross Blue Shield Plans,Prime Therapeutics,EXC,PE1013
+4021823,BCBS Health Exchange (Prime) - Plan B,EXCH,PPO,FL,254673,Blue Cross Blue Shield Plans,Prime Therapeutics,EXC,PE1013
+6936549,Medicaid Fee-for-Service - Plan A,FFS,HMO,CA,701687,State Medicaid,,MCD,PE1014
+3396187,Medicaid Fee-for-Service - Plan B,FFS,PPO,FL,483818,State Medicaid,,MCD,PE1014
+9760117,Medicaid Fee-for-Service - Plan C,FFS,POS,CA,26694,State Medicaid,,MCD,PE1014
+1159249,Medicaid Fee-for-Service - Plan D,FFS,PDP,IL,372133,State Medicaid,,MCD,PE1014

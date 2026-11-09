@@ -1,0 +1,13 @@
+BRAND_ID,BRAND_NAME,IS_BAUSCH,BU,TEAM,VNDR_PROD_GRP_ID
+BR100,MIEBO,Y,Eye Care,Aqua/Purple,VPG500
+BR101,Xiidra,Y,Eye Care,Aqua/Purple,VPG501
+BR102,Restasis,N,Competitor,Aqua/Purple,VPG502
+BR103,Cyclosporine,N,Competitor,Aqua/Purple,VPG503
+BR104,Cequa,N,Competitor,Aqua/Purple,VPG504
+BR105,Vevye,N,Competitor,Aqua/Purple,VPG505
+BR106,Tryptyr,N,Competitor,Aqua/Purple,VPG506
+BR107,Vyzulta,Y,Eye Care,Sight,VPG507
+BR108,Latanoprost,N,Competitor,Sight,VPG508
+BR109,Lumigan,N,Competitor,Sight,VPG509
+BR110,Rhopressa,N,Competitor,Sight,VPG510
+BR111,Xalatan,N,Competitor,Sight,VPG511

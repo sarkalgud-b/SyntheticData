@@ -1,0 +1,16 @@
+PAYER_ENTITY_ID,PAYER_ENTITY,BOB_ID,BOB,ENTERPRISE_ID,ENTERPRISE,POP_DESC,SUB_POP_DESC,FORMULARY_DESC,PAYER_PLAN_DETAIL,PBM_VENDOR_ID,PBM_VENDOR,RELATIONSHIP_TYPE
+PE1000,Humana Medicare Part D,BOB300,Humana Medicare,ENT10,Humana,Medicare,Medicare,Humana Medicare Part D formulary,Humana Medicare Part D,PBM20,Humana Pharmacy Solutions,Carve-in
+PE1001,Humana Commercial,BOB301,Humana Commercial,ENT10,Humana,Commercial,Commercial,Humana Commercial formulary,Humana Commercial,PBM20,Humana Pharmacy Solutions,Carve-in
+PE1002,Cigna Commercial,BOB302,Cigna Commercial,ENT11,Cigna,Commercial,Commercial,Cigna Commercial formulary,Cigna Commercial,PBM21,Express Scripts,Carve-in
+PE1003,Cigna Medicare Part D,BOB303,Cigna Medicare,ENT11,Cigna,Medicare,Medicare,Cigna Medicare Part D formulary,Cigna Medicare Part D,PBM21,Express Scripts,Carve-in
+PE1004,UnitedHealthcare Commercial,BOB304,UnitedHealthcare Commercial,ENT12,UnitedHealthcare,Commercial,Commercial,UnitedHealthcare Commercial formulary,UnitedHealthcare Commercial,PBM22,OptumRx,Carve-in
+PE1005,AARP Medicare Rx (UHC),BOB305,UnitedHealthcare Medicare,ENT12,UnitedHealthcare,Medicare,Medicare,AARP Medicare Rx (UHC) formulary,AARP Medicare Rx (UHC),PBM22,OptumRx,Carve-in
+PE1006,UnitedHealthcare Community Plan,BOB306,UnitedHealthcare Managed Medicaid,ENT12,UnitedHealthcare,Managed Medicaid,Managed Medicaid,UnitedHealthcare Community Plan formulary,UnitedHealthcare Community Plan,PBM22,OptumRx,Carve-in
+PE1007,Aetna Commercial,BOB307,CVS/Aetna Commercial,ENT13,CVS/Aetna,Commercial,Commercial,Aetna Commercial formulary,Aetna Commercial,PBM23,CVS Caremark,Carve-in
+PE1008,Aetna Medicare Part D (SilverScript),BOB308,CVS/Aetna Medicare,ENT13,CVS/Aetna,Medicare,Medicare,Aetna Medicare Part D (SilverScript) formulary,Aetna Medicare Part D (SilverScript),PBM23,CVS Caremark,Carve-in
+PE1009,Aetna Better Health,BOB309,CVS/Aetna Managed Medicaid,ENT13,CVS/Aetna,Managed Medicaid,Managed Medicaid,Aetna Better Health formulary,Aetna Better Health,PBM23,CVS Caremark,Carve-in
+PE1010,Anthem Commercial,BOB310,Elevance Health Commercial,ENT14,Elevance Health,Commercial,Commercial,Anthem Commercial formulary,Anthem Commercial,PBM24,CarelonRx,Carve-in
+PE1011,Anthem Health Exchange,BOB311,Elevance Health Health Exchange,ENT14,Elevance Health,Health Exchange,Health Exchange,Anthem Health Exchange formulary,Anthem Health Exchange,PBM24,CarelonRx,Carve-in
+PE1012,BCBS Commercial (Prime),BOB312,Blue Cross Blue Shield Plans Commercial,ENT15,Blue Cross Blue Shield Plans,Commercial,Commercial,BCBS Commercial (Prime) formulary,BCBS Commercial (Prime),PBM25,Prime Therapeutics,Carve-in
+PE1013,BCBS Health Exchange (Prime),BOB313,Blue Cross Blue Shield Plans Health Exchange,ENT15,Blue Cross Blue Shield Plans,Health Exchange,Health Exchange,BCBS Health Exchange (Prime) formulary,BCBS Health Exchange (Prime),PBM25,Prime Therapeutics,Carve-in
+PE1014,Medicaid Fee-for-Service,BOB314,State Medicaid Medicaid,ENT16,State Medicaid,Medicaid,Medicaid,Medicaid Fee-for-Service formulary,Medicaid Fee-for-Service,,,

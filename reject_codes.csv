@@ -1,0 +1,9 @@
+REJECT_CODE,REJECT_REASON,REJECT_GROUP
+70,Product/Service Not Covered,Not Covered
+MR,Product Not On Formulary,Not Covered
+75,Prior Authorization Required,Prior Auth
+608,"Step Therapy, Alternate Drug Therapy Required",Step Edit
+AG,Days Supply Limitation For Product/Service,Distribution Limits
+79,Refill Too Soon,Refill Restriction
+76,Plan Limitations Exceeded,Plan Limits
+88,DUR Reject Error,Other

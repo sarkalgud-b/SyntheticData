@@ -1,0 +1,30 @@
+SRC,CODE,SRC_DESC,CHANNEL
+XPO,1,Commercial,Commercial
+XPT,COM,Commercial,Commercial
+FIA,COMMERCIAL,Commercial,Commercial
+BLINK,COMMERCIAL,Commercial,Commercial
+MMIT,Commercial,Commercial,Commercial
+XPO,2,Medicare Part D,Medicare Part D
+XPT,MED,Medicare Part D,Medicare Part D
+FIA,MEDICARE PART D,Medicare Part D,Medicare Part D
+BLINK,MEDICARE,Medicare Part D,Medicare Part D
+MMIT,Medicare,Medicare,Medicare Part D
+XPO,3,Medicaid,Medicaid
+XPT,MCD,Medicaid,Medicaid
+FIA,MEDICAID,Medicaid,Medicaid
+BLINK,MEDICAID,Medicaid,Medicaid
+MMIT,Medicaid,Medicaid,Medicaid
+XPO,4,Managed Medicaid,Managed Medicaid
+XPT,MMC,Managed Medicaid,Managed Medicaid
+FIA,MANAGED MEDICAID,Managed Medicaid,Managed Medicaid
+BLINK,MEDICAID MANAGED,Managed Medicaid,Managed Medicaid
+MMIT,Managed Medicaid,Managed Medicaid,Managed Medicaid
+XPO,5,HIX,HIX
+XPT,EXC,HIX,HIX
+FIA,EXCHANGE,HIX,HIX
+BLINK,EXCHANGE,HIX,HIX
+MMIT,Health Exchange,Health Exchange,HIX
+XPO,6,Cash,Cash
+XPT,CSH,Cash,Cash
+FIA,CASH,Cash,Cash
+BLINK,CASH,Cash,Cash
